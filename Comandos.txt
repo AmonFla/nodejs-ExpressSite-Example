@@ -1,0 +1,10 @@
+Inicializar un proyecto en node
+	npm init
+Instalar paquetes para todos los entornos tanto productivo como desarrollo
+	npm install <lista de paquetes> --save-prod
+Instalar paquetes globales
+	npm install <lista de paquetes> -g
+Correr una applicación
+	node <archivo inicila de la app>
+Correr con el nodemon una aplocación
+	nodemon <archivo inicila de la app>
